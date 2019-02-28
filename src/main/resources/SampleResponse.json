@@ -1,0 +1,27 @@
+{
+    "results": [
+        {
+            "center": {
+                "lat": 28.6269628,
+                "lng": 77.2153959
+            },
+            "displayMapRegion": {
+                "southLat": 28.3976574,
+                "westLng": 76.8425202,
+                "northLat": 28.8793215,
+                "eastLng": 77.3476518
+            },
+            "name": "New Delhi",
+            "formattedAddressLines": [
+                "New Delhi",
+                "Delhi",
+                "India"
+            ],
+            "country": "India",
+            "countryCode": "IN",
+            "geocodeAccuracy": "REGION",
+            "muid": "14559374675218899002",
+            "timezone": "Asia/Kolkata"
+        }
+    ]
+}
